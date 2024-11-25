@@ -11,6 +11,6 @@ package com.mycompany.forcommit;
 public class Forcommit {
 
     public static void main(String[] args) {
-        System.out.println("Hello Madlang people");
+        System.out.println("Hello mga people na malulupet");
     }
 }
